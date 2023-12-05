@@ -1,5 +1,6 @@
 from tkinter import *
 
+
 # Create an instance of tkinter frame
 root= Tk()
 
